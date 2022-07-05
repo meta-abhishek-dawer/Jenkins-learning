@@ -1,5 +1,3 @@
-package myclasses;
-
 import java.util.*;
 
 public class HelloWorld {
